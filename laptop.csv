@@ -1,0 +1,504 @@
+﻿id,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Price(£)
+0,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.3GHz,8,128,Intel Iris Plus Graphics 640,macOS,705.74
+1,13.3,1440x900,Intel Core i5 1.8GHz,8,128,Intel HD Graphics 6000,macOS,473.56
+2,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,No OS,302.91
+3,15.4,IPS Panel Retina Display 2880x1800,Intel Core i7 2.7GHz,16,512,AMD Radeon Pro 455,macOS,1336.71
+4,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 3.1GHz,8,256,Intel Iris Plus Graphics 650,macOS,950.13
+5,15.6,1366x768,AMD A9-Series 9420 3GHz,4,500,AMD Radeon R5,Windows 10,210.72
+6,15.4,IPS Panel Retina Display 2880x1800,Intel Core i7 2.2GHz,16,256,Intel Iris Pro Graphics,Mac OS X,1127.32
+7,13.3,1440x900,Intel Core i5 1.8GHz,8,256,Intel HD Graphics 6000,macOS,610.4
+8,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,512,Nvidia GeForce MX150,Windows 10,787.56
+9,14,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,405.63
+10,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,500,Intel HD Graphics 620,No OS,207.5
+11,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,500,Intel HD Graphics 520,No OS,181.74
+12,15.4,IPS Panel Retina Display 2880x1800,Intel Core i7 2.8GHz,16,256,AMD Radeon Pro 555,macOS,1285.36
+13,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,256,AMD Radeon R5 M430,Windows 10,262.82
+14,12,IPS Panel Retina Display 2304x1440,Intel Core M m3 1.2GHz,8,256,Intel HD Graphics 615,macOS,665.03
+15,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.3GHz,8,256,Intel Iris Plus Graphics 640,macOS,799.96
+16,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,AMD Radeon R5 M430,Windows 10,392.46
+17,15.4,IPS Panel Retina Display 2880x1800,Intel Core i7 2.9GHz,16,512,AMD Radeon Pro 560,macOS,1505.58
+18,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,1,Nvidia GeForce 940MX,No OS,262.87
+19,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,128,Intel UHD Graphics 620,Windows 10,515.73
+20,11.6,1366x768,Intel Atom x5-Z8350 1.44GHz,2,32,Intel HD Graphics 400,Windows 10,101.09
+21,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,128,Nvidia GeForce GTX 1050,Windows 10,526.27
+22,15.6,1366x768,AMD E-Series E2-9000e 1.5GHz,4,500,AMD Radeon R2,No OS,135.91
+23,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,431.44
+24,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel HD Graphics 620,Windows 10,347.16
+25,15.6,1366x768,Intel Core i3 6006U 2GHz,4,1,Intel HD Graphics 520,Windows 10,220.54
+26,13.3,1440x900,Intel Core i5 1.6GHz,8,128,Intel HD Graphics 6000,Mac OS X,578.95
+27,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,AMD Radeon 530,Windows 10,421.44
+28,15.6,Full HD 1920x1080,Intel Core i7 8650U 1.9GHz,8,512,Intel UHD Graphics 620,Windows 10,683.78
+29,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,1,Nvidia GeForce 930MX,Windows 10,472.01
+30,15.6,Full HD 1920x1080,Intel Atom x5-Z8300 1.44GHz,4,64,Intel HD Graphics,Windows 10,129.06
+31,14,1366x768,AMD E-Series E2-6110 1.5GHz,2,32,AMD Radeon R2,Windows 10,104.83
+32,17.3,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4,500,AMD Radeon 530,Windows 10,231.26
+33,13.3,Touchscreen / Quad HD+ 3200x1800,Intel Core i7 8550U 1.8GHz,16,512,Intel UHD Graphics 620,Windows 10,984.58
+34,13.3,1440x900,Intel Core i5 1.6GHz,8,256,Intel HD Graphics 6000,Mac OS X,525.74
+35,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,64,Intel HD Graphics 500,Windows 10,131.17
+36,15.6,1366x768,Intel Core i3 7130U 2.7GHz,4,1,Intel HD Graphics 620,Linux,193.33
+37,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,128,AMD Radeon 530,Windows 10,515.73
+38,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,1,Intel HD Graphics 620,Windows 10,257.44
+39,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Nvidia GeForce 930MX ,Windows 10,463.05
+40,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,1,Intel HD Graphics 620,Linux,204.92
+41,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1060,Windows 10,789.67
+42,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,1,Nvidia GeForce 940MX,Linux,275.51
+43,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,256,Intel UHD Graphics 620,Windows 10,359.27
+44,17.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,12,1,Nvidia GeForce 150MX,Windows 10,526.27
+45,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.0GHz,8,256,Intel Iris Graphics 540,macOS,747.52
+46,15.6,1366x768,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,No OS,194.39
+47,17.3,Full HD 1920x1080,AMD Ryzen 1700 3GHz,8,256,AMD Radeon RX 580,Windows 10,684.31
+48,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,256,AMD Radeon R5 M430,Windows 10,336.62
+49,17.3,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,1,Nvidia GeForce 920MX,Windows 10,245.49
+50,10.1,IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4,64,Intel HD Graphics 400,Android,168.05
+51,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Nvidia GeForce MX150,Windows 10,443.03
+52,15.6,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4,256,AMD Radeon R4 Graphics,Windows 10,209.92
+53,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,512,Intel UHD Graphics 620,Windows 10,581.05
+54,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,1,Intel HD Graphics 620,Windows 10,202.29
+55,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,AMD Radeon 520,Windows 10,404.47
+56,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,231.26
+57,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,256,Intel HD Graphics 620,Windows 10,308.8
+58,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1070,Windows 10,1290.12
+59,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,256,Intel HD Graphics 520,Linux,218.62
+60,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,256,AMD Radeon 530,Windows 10,684.31
+61,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,463.05
+62,14,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,8,256,Intel HD Graphics 620,No OS,315.55
+63,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,495.71
+64,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,363.49
+65,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1050 Ti,Windows 10,1044.63
+66,15.6,1366x768,Intel Core i3 6006U 2GHz,4,500,AMD Radeon 520,Windows 10,231.1
+67,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,32,Intel HD Graphics 400,Windows 10,120.64
+68,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,1,Intel HD Graphics 620,Windows 10,289.21
+69,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,1,Nvidia GeForce GTX 1050 Ti,Linux,499.93
+70,13.5,Touchscreen 2256x1504,Intel Core i5 7200U 2.5GHz,4,128,Intel HD Graphics 620,Windows 10 S,573.68
+71,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,AMD Radeon 530,Windows 10,503.09
+72,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,AMD Radeon 530,Windows 10,458.31
+73,17.3,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,128,Nvidia GeForce GTX 1050,Windows 10,576.84
+74,14,1366x768,Intel Core i3 6006U 2GHz,8,1,Intel HD Graphics 520,Windows 10,204.92
+75,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,1,Nvidia GeForce GTX 1050,Windows 10,499.93
+76,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,2,Intel HD Graphics 620,No OS,273.41
+77,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,128,Intel UHD Graphics 620,Windows 10,450.41
+78,15.6,Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,1,Nvidia GeForce MX130,Windows 10,279.2
+79,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,128,Nvidia GeForce 930MX,Windows 10,514.68
+80,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,577.45
+81,12,IPS Panel Retina Display 2304x1440,Intel Core i5 1.3GHz,8,512,Intel HD Graphics 615,macOS,795.46
+82,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel HD Graphics 620,Windows 10,453.04
+83,15.6,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4,128,AMD R4 Graphics,Windows 10,210.19
+84,15.6,1366x768,AMD A9-Series 9420 3GHz,4,1,AMD Radeon R5,Windows 10,208.08
+85,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,128,Nvidia GeForce GTX 1050 Ti,Windows 10,710.65
+86,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Nvidia GeForce GTX 940MX,Windows 10,368.23
+87,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,315.54
+88,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,128,Nvidia GeForce GTX 1060,Windows 10,763.33
+89,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,868.68
+90,15.6,Full HD 1920x1080,AMD FX 9830P 3GHz,8,1,AMD Radeon RX 560,Windows 10,368.23
+91,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,1,Nvidia GeForce MX150,Windows 10,362.96
+92,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,512,Intel UHD Graphics 620,Windows 10,630.57
+93,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,256,Nvidia GeForce GTX 1060,Windows 10,629.52
+94,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,552.61
+95,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,446.19
+96,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,1,AMD Radeon R5 M430,Linux,316.02
+97,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,256,AMD Radeon R5 M430,Linux,255.5
+98,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,6,256,Nvidia GeForce 920M,Windows 10,303.96
+99,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,128,Nvidia GeForce GTX 1050,Windows 10,657.97
+100,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,AMD Radeon 530,Windows 10,378.77
+101,15.6,Full HD 1920x1080,AMD E-Series E2-9000e 1.5GHz,4,500,AMD Radeon R2,Windows 10,183.85
+102,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,1,AMD Radeon 520,Linux,340.84
+103,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Nvidia GeForce MX150,Windows 10,589.48
+104,13.5,Touchscreen 2256x1504,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10 S,705.9
+105,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6,256,Nvidia GeForce 940MX,Windows 10,347.16
+106,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,1,Intel HD Graphics 520,Windows 10,218.57
+107,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Nvidia GeForce 940MX,Windows 10,628.47
+108,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1050 Ti,Windows 10,684.31
+109,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,779.66
+110,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,256,Nvidia GeForce MX150,Windows 10,664.81
+111,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7560U 2.4GHz,8,256,Intel Iris Plus Graphics 640,Windows 10,726.45
+112,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,736.99
+113,14,IPS Panel 1366x768,Intel Core i5 8250U 1.6GHz,4,500,Intel UHD Graphics 620,Windows 10,380.35
+114,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,858.15
+115,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,736.98
+116,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,512,Intel UHD Graphics 620,Windows 10,571.05
+117,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Nvidia GeForce 940MX,Windows 10,595.45
+118,17.3,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,1,Nvidia GeForce 920MX,Windows 10,297.11
+119,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Nvidia GeForce 940MX,Windows 10,588.96
+120,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,6,1,Intel HD Graphics 620,Windows 10,252.33
+121,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1070,Windows 10,1180.81
+122,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Nvidia GeForce 940MX,No OS,331.35
+123,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,512,Nvidia GeForce 930MX ,Windows 10,669.56
+124,15.6,1366x768,AMD A9-Series 9420 3GHz,4,256,AMD Radeon R5,Windows 10,237.58
+125,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,500,Intel HD Graphics 400,No OS,136.44
+126,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,1,Intel UHD Graphics 620,Windows 10,427.76
+127,14,1366x768,AMD E-Series 6110 1.5GHz,4,64,AMD Radeon R2,Windows 10 S,146.44
+128,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,256,AMD Radeon 530,Windows 10,735.41
+129,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,488.87
+130,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,1,AMD Radeon R7 M445,Windows 10,336.62
+131,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,1,AMD Radeon R5 M430,Windows 10,236.53
+132,14,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,465.69
+133,15.6,Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,256,Nvidia GeForce MX130,Windows 10,301.33
+134,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8,1,Intel HD Graphics 620,Windows 10,315.02
+135,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,520.47
+136,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,1,Intel HD Graphics 500,No OS,132.94
+137,17.3,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,128,Nvidia GeForce GTX 1050,Windows 10,494.13
+138,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,1,Nvidia GeForce 920MX,No OS,262.87
+139,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,256,Intel HD Graphics 620,Windows 10,368.23
+140,17.3,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,1,Nvidia GeForce MX130,Windows 10,345.05
+141,14,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,AMD Radeon RX 550,Windows 10,587.91
+142,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia GeForce GTX 1050M,No OS,457.78
+143,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,500,Intel HD Graphics 520,Windows 10,317.13
+144,15.6,1366x768,AMD A6-Series 9220 2.5GHz,4,256,AMD Radeon R4 Graphics,Windows 10,194.39
+145,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,578.95
+146,12.5,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core M 6Y75 1.2GHz,8,512,Intel HD Graphics 515,Windows 10,1060.96
+147,15.6,Full HD 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4,1,Intel HD Graphics 500,Windows 10,181.22
+148,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1070,Windows 10,1068.87
+149,15.6,1366x768,Intel Core i3 6006U 2GHz,4,1,Intel HD Graphics 520,Windows 10,235.48
+150,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1050,Windows 10,658.1
+151,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,1,Nvidia GeForce GTX 1050,Windows 10,473.59
+152,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,128,Intel HD Graphics 620,Windows 10,262.34
+153,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1060,Windows 10,995.64
+154,14,Full HD 1920x1080,Intel Core i5 7500U 2.7GHz,4,256,Intel HD Graphics 620,Windows 10,569.99
+155,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,6,256,AMD Radeon 520,Windows 10,326.09
+156,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4,256,Intel HD Graphics 620,Windows 10,331.35
+157,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel HD Graphics 620,Windows 10,692.73
+158,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,552.61
+159,15.6,1366x768,Intel Core i3 6006U 2.2GHz,4,500,Intel HD Graphics 520,Windows 10,235.48
+160,15.6,1366x768,AMD A9-Series 9420 3GHz,4,1,AMD Radeon R5 M420,Windows 10,212.3
+161,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,256,Nvidia GeForce MX150,Windows 10,424.07
+162,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,AMD Radeon 520,Windows 10,383.51
+163,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1050 Ti,Windows 10,568.41
+164,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,1,Intel HD Graphics 500,Windows 10,183.32
+165,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1060,Windows 10,947.7
+166,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,1,Intel HD Graphics 505,Windows 10,191.5
+167,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,128,Nvidia GeForce GTX 1050,Windows 10,558.66
+168,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Nvidia GeForce MX150,Windows 10,449.88
+169,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,500,Intel UHD Graphics 620,Windows 10,397.2
+170,13,IPS Panel Full HD 2160x1440,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,710.65
+171,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6,2,AMD Radeon 520,Windows 10,368.23
+172,15.6,1366x768,AMD A6-Series 9220 2.9GHz,4,500,AMD Radeon R4 Graphics,No OS,162.78
+173,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,500,Intel HD Graphics 620,Windows 10,257.6
+174,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Nvidia GeForce 930MX,Windows 10,486.23
+175,15.6,1366x768,Intel Core i3 7100U 2.4GHz,8,1,Intel HD Graphics 620,Windows 10,241.8
+176,15.6,1366x768,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,236.53
+177,18.4,Full HD 1920x1080,Intel Core i7 6920HQ 2.9GHz,32,512,Nvidia GTX 980 SLI,Windows 10,1474.5
+178,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,128,AMD R17M-M1-70,Windows 10,428.28
+179,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,789.67
+180,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,256,AMD Radeon 530,Linux,552.61
+181,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,736.99
+182,13.9,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16,512,Intel UHD Graphics 620,Windows 10,974.04
+183,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,128,Intel HD Graphics 620,Windows 10,417.75
+184,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Nvidia GeForce MX150,No OS,631.63
+185,17.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,16,512,Nvidia GeForce 150MX,Windows 10,816
+186,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1050,Windows 10,1262.73
+187,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,256,Nvidia GeForce GTX 1050,No OS,410.37
+188,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7Y54 1.2GHz,8,256,Intel HD Graphics 615,Windows 10,521
+189,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,128,AMD Radeon 530,Windows 10,571.57
+190,14,Touchscreen 2560x1440,Intel Core i7 7500U 2.7GHz,16,1,Intel HD Graphics 620,Windows 10,1487.67
+191,14,IPS Panel Full HD 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4,32,Intel HD Graphics 500,Windows 10,136.97
+192,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Nvidia GeForce MX150,No OS,526.74
+193,17.3,1600x900,Intel Core i5 8250U 1.6GHz,8,256,Nvidia GeForce MX150,No OS,367.7
+194,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,1,Intel UHD Graphics 620,Windows 10,441.98
+195,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,1,Nvidia GeForce 930MX,Windows 10,481.49
+196,17.3,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7820HK 2.9GHz,32,1,Nvidia GeForce GTX 1080,Windows 10,3212.92
+197,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,512,Intel UHD Graphics 620,Windows 10,505.2
+198,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1050,Windows 10,726.45
+199,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Nvidia GeForce 930MX ,Windows 10,550.5
+200,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1060,Windows 10,971.94
+201,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,128,Intel HD Graphics 520,Windows 10,259.71
+202,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,1,Nvidia GeForce 940MX,Windows 10,390.88
+203,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1060,Windows 10,921.36
+204,15.6,4K Ultra HD 3840x2160,Intel Xeon E3-1505M V6 3GHz,16,256,Nvidia Quadro M1200,Windows 10,1609.36
+205,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1060,No OS,736.46
+206,15.6,Touchscreen 1366x768,Intel Core i3 7100U 2.4GHz,6,1,Intel HD Graphics 620,Windows 10,231.26
+207,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,1026.72
+208,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,763.33
+209,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,314.5
+210,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,1,Nvidia GeForce GTX 1050,Linux,410.37
+211,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1050,Windows 10,741.2
+212,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,500,Intel HD Graphics 520,No OS,183.85
+213,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,No OS,289.21
+214,13,IPS Panel Full HD 2160x1440,Intel Core i7 7500U 2.7GHz,8,512,Intel HD Graphics 620,Windows 10,789.67
+215,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,AMD Radeon 530,Windows 10,490.91
+216,17.3,1600x900,Intel Core i5 7200U 2.5GHz,8,1,Nvidia GeForce GTX 940MX,No OS,310.28
+217,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Nvidia GeForce 930MX,Windows 10,543.13
+218,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,605.29
+219,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,16,512,Intel UHD Graphics 620,Windows 10,673.77
+220,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,AMD Radeon 520,Linux,356.82
+221,14,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,473.59
+222,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,256,Intel HD Graphics 520,Windows 10,718.02
+223,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,1,Intel UHD Graphics 620,Windows 10,418.27
+224,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1060,Windows 10,1293.99
+225,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Nvidia GeForce 940MX,Windows 10,438.29
+226,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,1,AMD Radeon R7 M445,Windows 10,452.52
+227,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Nvidia GeForce 920MX ,Windows 10,405.11
+228,17.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Nvidia GeForce GTX 950M,Windows 10,469.37
+229,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,1,AMD FirePro W4190M ,Windows 10,668.5
+230,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,1,Intel HD Graphics 620,Windows 10,210.19
+231,15.6,1366x768,AMD E-Series 9000e 1.5GHz,4,500,AMD Radeon R2,Windows 10,173.84
+232,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1060,Windows 10,789.67
+233,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,452.52
+234,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,8,256,Intel HD Graphics 520,Windows 10,362.96
+235,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,256,AMD Radeon R7 M445,Linux,473.59
+236,15.6,1366x768,Intel Core i3 6006U 2GHz,4,1,Intel HD Graphics 520,Linux,205.45
+237,15.6,Full HD 1920x1080,AMD A10-Series A10-9620P 2.5GHz,4,128,AMD Radeon R5 M430,Windows 10,302.91
+238,17.3,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,32,512,Nvidia GeForce GTX 1080,Windows 10,2049.23
+239,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,256,Nvidia GeForce GTX 1050,Windows 10,445.67
+240,15.6,1366x768,Intel Core i3 6006U 2GHz,8,128,Intel HD Graphics 520,Windows 10,310.28
+241,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,128,Nvidia GeForce 150MX,Windows 10,603.18
+242,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,128,Nvidia GeForce GTX 950M,No OS,468.32
+243,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,256,Nvidia GeForce GTX 1050,Windows 10,463.05
+244,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,568.41
+245,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,128,AMD Radeon 530,Windows 10,518.89
+246,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8,1,Intel HD Graphics 620,Windows 10,294.48
+247,17.3,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,16,256,Nvidia GeForce GTX 1080,Windows 10,1579.86
+248,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,500,Intel UHD Graphics 620,Windows 10,355.59
+249,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 3.1GHz,8,512,Intel Iris Plus Graphics 650,macOS,1074.66
+250,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,1,Intel UHD Graphics 620,Windows 10,431.44
+251,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 980M,Windows 10,947.7
+252,15.6,1366x768,AMD A9-Series 9420 3GHz,4,1,AMD Radeon R5 M420,Windows 10,247.07
+253,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,512,Intel UHD Graphics 620,Windows 10,974.04
+254,17.3,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,256,Nvidia GeForce MX130,Windows 10,369.81
+255,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,499.93
+256,15.6,1366x768,AMD A6-Series A6-9220 2.5GHz,8,128,AMD Radeon R4 Graphics,Windows 10,234.9
+257,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,1,Nvidia GeForce MX150,Windows 10,557.88
+258,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1070,Windows 10,1316.46
+259,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,512,Nvidia GeForce GTX 1050M,Windows 10,895.02
+260,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,128,AMD Radeon 530,Windows 10,601.6
+261,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,256,Intel HD Graphics 520,No OS,233.9
+262,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,500,Intel HD Graphics 620,Windows 10,380.35
+263,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,1,Intel HD Graphics 620,Windows 10,346.1
+264,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,1,AMD Radeon R5 M430,Windows 10,297.64
+265,15.6,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,420.91
+266,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,512,Intel UHD Graphics 620,Windows 10,789.67
+267,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,1,Intel HD Graphics 620,No OS,246.01
+268,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,1,Nvidia GeForce 930MX ,Windows 10,536.28
+269,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,463.58
+270,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.9GHz,8,512,Intel Iris Graphics 550,macOS,1031.94
+271,17.3,Full HD 1920x1080,AMD Ryzen 1700 3GHz,16,256,AMD Radeon RX 580,Windows 10,816
+272,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,AMD Radeon 520,Linux,387.23
+273,14,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,16,512,Intel HD Graphics 520,Windows 10,1316.46
+274,15.6,1366x768,Intel Core i7 6500U 2.5GHz,8,500,Nvidia GeForce 930M,Windows 10,427.76
+275,15.6,1366x768,Intel Core i7 7500U 2.7GHz,12,1,Intel HD Graphics 620,Windows 10,375.64
+276,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,128,AMD Radeon 530,Linux,578.95
+277,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,1,Nvidia GeForce MX130,Windows 10,392.46
+278,17.3,1600x900,Intel Core i3 6006U 2GHz,4,1,Intel HD Graphics 520,Windows 10,257.6
+279,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,2,Nvidia GeForce MX150,No OS,447.25
+280,17.3,1600x900,Intel Core i7 7500U 2.7GHz,6,128,Nvidia GeForce 940MX,Windows 10,452.52
+281,15.6,Full HD 1920x1080,Intel Core i3 6006U 2.0GHz,4,1,AMD Radeon R5 M430,Linux,225.47
+282,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,256,Nvidia GeForce GTX 1050,Windows 10,436.71
+283,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6,256,Intel HD Graphics 620,Windows 10,305.01
+284,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Nvidia GeForce MX150,Windows 10,500.98
+285,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12,1,Intel HD Graphics 620,Windows 10,347.16
+286,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 630,Windows 10,577.89
+287,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Nvidia GeForce 940MX,Windows 10,514.68
+288,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1050 Ti,Windows 10,621.09
+289,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,1,Nvidia GeForce 940MX,No OS,347.16
+290,15.6,1366x768,Intel Celeron Dual Core 3205U 1.5GHz,2,16,Intel HD Graphics,Chrome OS,104.83
+291,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,1,Nvidia GeForce GTX 1050,Windows 10,625.31
+292,17.3,1600x900,Intel Core i3 6006U 2GHz,8,1,Intel HD Graphics 520,Windows 10,257.6
+293,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia GeForce GTX 1050,Windows 10,963.51
+294,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,389.3
+295,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,1,Nvidia GeForce GTX 1060,Windows 10,684.31
+296,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia GeForce GTX 1050 Ti,Linux,515.73
+297,17.3,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,16,256,Nvidia Quadro M1200,Windows 10,1519.73
+298,15.6,Full HD 1920x1080,AMD A10-Series 9600P 2.4GHz,6,1,AMD Radeon R5 430,Windows 10,262.87
+299,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,512,Nvidia GeForce 940MX,Windows 10,773.33
+300,14,1366x768,Intel Core i3 7100U 2.4GHz,4,128,Intel HD Graphics 620,Windows 10,268.14
+301,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1070,Windows 10,1117.86
+302,17.3,1600x900,Intel Core i5 7200U 2.5GHz,6,1,Nvidia GeForce GTX 940M,Windows 10,341.89
+303,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,2,Nvidia GeForce 940MX,No OS,289.21
+304,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,128,Nvidia GeForce GTX 1050 Ti,Windows 10,666.4
+305,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,1,Intel HD Graphics 505,No OS,189.64
+306,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7600U 2.8GHz,16,256,Intel HD Graphics 620,Windows 10,1040.42
+307,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,256,Nvidia GeForce 930M,Windows 10,549.45
+308,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,128,Nvidia GeForce 940MX,Windows 10,431.44
+309,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,1,Intel HD Graphics 520,Windows 10,247.07
+310,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,526.27
+311,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16,1,Intel UHD Graphics 620,Windows 10,1316.46
+312,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1070,Windows 10,1105.74
+313,15.6,Full HD 1920x1080,AMD A8-Series 7410 2.2GHz,8,256,AMD Radeon R5,Windows 10,247.07
+314,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,2,32,Intel HD Graphics 500,Windows 10,144.87
+315,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,128,AMD Radeon 530,Windows 10,444.61
+316,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16,1,Intel UHD Graphics 620,Windows 10,1290.12
+317,13.3,1366x768,Intel Celeron Dual Core 3855U 1.6GHz,4,16,Intel HD Graphics 510,Chrome OS,242.27
+318,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,516.26
+319,11.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,128,Intel HD Graphics 405,Windows 10,255.5
+320,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,680.62
+321,17.3,1600x900,Intel Core i5 7200U 2.5GHz,4,1,Nvidia GeForce 920MX,Windows 10,310.28
+322,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,576.31
+323,15.6,IPS Panel Full HD 1366x768,Intel Core i7 8550U 1.8GHz,8,1,Intel UHD Graphics 620,Windows 10,475.17
+324,15.6,1366x768,AMD A12-Series 9720P 2.7GHz,8,256,AMD Radeon RX 540,Windows 10,347.16
+325,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,32,Intel HD Graphics 500,Windows 10,153.82
+326,15.6,1366x768,Intel Core i5 7200U 2.5GHz,6,1,Intel HD Graphics 620,Windows 10,289.21
+327,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Nvidia GeForce 940MX,Windows 10,553.08
+328,12.5,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,703.27
+329,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,32,1,Nvidia GeForce GTX 1050,Windows 10,1390.21
+330,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia GeForce GTX 1050 Ti,Windows 10,631.63
+331,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,496.77
+332,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,702.74
+333,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,1,Intel HD Graphics 520,Windows 10,236.53
+334,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia GeForce GTX 1050,Windows 10,526.27
+335,14,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,256,Intel HD Graphics 620,Windows 10,667.98
+336,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,128,Nvidia GeForce 940MX,Windows 10,552.61
+337,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,602.65
+338,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,1,Intel HD Graphics 500,Linux,144.86
+339,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Nvidia GeForce 940MX,Windows 10,601.99
+340,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,500,Intel HD Graphics,Linux,144.82
+341,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,12,2,AMD Radeon 530,Windows 10,473.59
+342,15.6,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,1,Nvidia GeForce 930MX ,Windows 10,377.18
+343,13.9,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16,512,Intel UHD Graphics 620,Windows 10,1105.74
+344,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,831.81
+345,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1050 Ti,Windows 10,594.75
+346,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2,32,Intel HD Graphics 400,Windows 10,146.98
+347,15.6,Full HD 1920x1080,Intel Core i7 8650U 1.9GHz,16,512,Intel UHD Graphics 620,Windows 10,847.06
+348,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,32,Intel HD Graphics 500,Windows 10,197.55
+349,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,1,AMD Radeon 530,Windows 10,349.26
+350,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1050,Windows 10,1068.03
+351,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,686.94
+352,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,128,Nvidia GeForce GTX 1060,Windows 10,742.25
+353,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia Quadro M1200,Windows 10,915.71
+354,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16,512,Nvidia GeForce 930M,Windows 10,739.09
+355,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,128,AMD Radeon 530,Windows 10,511.46
+356,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,1,Intel HD Graphics 500,No OS,169.62
+357,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,1,Nvidia GeForce GTX 1050,Windows 10,526.27
+358,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8,2,Intel HD Graphics 620,Windows 10,293.62
+359,14,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,256,Intel HD Graphics 620,Windows 10,751.74
+360,15.6,1366x768,Intel Core i3 6006U 2GHz,4,500,Intel HD Graphics 520,Windows 10,231.26
+361,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,497.82
+362,17.3,1600x900,Intel Core i5 7200U 2.5GHz,6,128,Nvidia GeForce GTX 940MX,Windows 10,378.77
+363,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,1,Intel HD Graphics 620,Windows 10,336.62
+364,15.6,1366x768,Intel Core i3 6006U 2GHz,8,256,Nvidia GeForce 920MX ,No OS,262.87
+365,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,8,2,Intel HD Graphics 405,Windows 10,204.92
+366,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,128,AMD Radeon 530,Windows 10,571.57
+367,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,128,Nvidia GeForce GTX 1050,No OS,426.18
+368,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,AMD Radeon R7 M445,Windows 10,473.59
+369,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,921.89
+370,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12,512,Nvidia GeForce GT 940MX,Windows 10,578.95
+371,15.6,1366x768,AMD A9-Series 9420 3GHz,4,128,AMD Radeon R5,Windows 10,224.41
+372,17.3,IPS Panel Full HD 1920x1080,AMD Ryzen 1700 3GHz,16,256,AMD Radeon RX 580,Windows 10,1158.42
+373,17.3,1600x900,AMD A8-Series 7410 2.2GHz,4,128,AMD Radeon R5,Windows 10,257.6
+374,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,457.79
+375,15.6,Full HD 1920x1080,AMD A9-Series 9420 3GHz,4,256,AMD Radeon R5,Windows 10,257.6
+376,11.6,IPS Panel 1366x768,Intel Celeron Quad Core N3450 1.1GHz,4,128,Intel HD Graphics 500,Windows 10,291.32
+377,15.6,1366x768,Intel Celeron Dual Core N3060 1.60GHz,4,500,Intel HD Graphics 400,Windows 10,162.78
+378,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,32,Intel HD Graphics 500,Windows 10,150.66
+379,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,1,Nvidia GeForce GTX 1050,Linux,445.67
+380,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,128,Nvidia GeForce GTX 1050,Windows 10,627.41
+381,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,No OS,212.56
+382,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,128,Nvidia GeForce GTX 1060,Windows 10,871.84
+383,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Nvidia GeForce 940MX,Windows 10,578.95
+384,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,512,Intel HD Graphics 620,Windows 10,921.31
+385,14,IPS Panel 2560x1440,Intel Core i7 7500U 2.7GHz,8,512,Intel HD Graphics 620,Windows 10,1202.15
+386,13.3,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,128,Intel HD Graphics 620,Windows 10,289.21
+387,15.6,Full HD 1920x1080,Intel Core i5 6440HQ 2.6GHz,8,500,AMD FirePro W5130M,Windows 10,721.18
+388,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,8,256,Nvidia Quadro M1200,Windows 10,1124.71
+389,14,Touchscreen 2560x1440,Intel Core i7 7500U 2.7GHz,16,512,Intel HD Graphics 620,Windows 10,1321.73
+390,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,1,Nvidia GeForce GTX 1050,Windows 10,547.34
+391,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,26,Nvidia GeForce GTX 1050 Ti,Windows 10,838.13
+392,15.6,IPS Panel 1366x768,Intel Core i5 8250U 1.6GHz,12,1,Nvidia GeForce MX130,Windows 10,365.59
+393,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia GeForce GTX 1050 Ti,Windows 10,710.65
+394,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,AMD Radeon R7 M445,Linux,410.3
+395,15.6,Full HD 1920x1080,AMD A9-Series 9420 3GHz,4,256,AMD Radeon 520,Windows 10,262.87
+396,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,AMD Radeon RX 550,Windows 10,647.73
+397,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,494.13
+398,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia Quadro M1200,Windows 10,1428.67
+399,14,IPS Panel 2560x1440,Intel Core i7 7500U 2.7GHz,16,1,Intel HD Graphics 620,Windows 10,1382.84
+400,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,1,Intel HD Graphics 500,Windows 10,161.2
+401,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1050,Windows 10,805.47
+402,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,AMD Radeon RX 550,Windows 10,602.92
+403,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia GeForce GTX 1050,Linux,463.05
+404,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,256,Nvidia GeForce GTX 1070,Windows 10,1184.76
+405,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,512,Intel HD Graphics 620,Windows 10,986.69
+406,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16,512,Intel HD Graphics 520,Windows 10,920.31
+407,14,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,512,Intel HD Graphics,Windows 10,885.01
+408,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,500,Intel HD Graphics 520,Windows 10,215.46
+409,11.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,2,32,Intel HD Graphics 500,Windows 10,160.38
+410,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,512,Nvidia Quadro M1200,Windows 10,1014.08
+411,14,IPS Panel Full HD 2560x1440,Intel Core i7 7700HQ 2.8GHz,8,512,Nvidia GeForce GT 940MX,Windows 10,1023.56
+412,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,1,AMD Radeon 520,Windows 10,247.07
+413,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8,256,Intel HD Graphics 520,Windows 10,415.65
+414,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,488.87
+415,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,256,AMD Radeon R5 M430,Linux,315.5
+416,13.3,1366x768,Intel Core i3 6006U 2GHz,4,128,Intel HD Graphics 520,Windows 10,362.96
+417,14,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,256,Intel HD Graphics 520,Windows 10,790.19
+418,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,1,Intel HD Graphics 620,Windows 10,284.44
+419,14,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,AMD Radeon RX 550,Windows 10,640.26
+420,15.6,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1050,Windows 10,1000.38
+421,12.3,IPS Panel Retina Display 2736x1824,Intel Celeron Quad Core N3450 1.1GHz,6,64,Intel HD Graphics 500,Windows 10,236.53
+422,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8,256,Intel HD Graphics 630,Windows 10,751.74
+423,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,1,Nvidia GeForce 940MX,Linux,314.5
+424,17.3,IPS Panel 2560x1440,Intel Core i7 7820HK 2.9GHz,16,256,Nvidia GeForce GTX 1070,Windows 10,1474.5
+425,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia GeForce GTX 1050 Ti,Windows 10,610.55
+426,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,AMD Radeon 530,Windows 10,601.81
+427,14,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,256,Intel HD Graphics 620,Linux,578.95
+428,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,256,Nvidia GeForce GTX 1070,Windows 10,1053.06
+429,11.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4,32,Intel HD Graphics 500,Windows 10,157.51
+430,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,16,Intel HD Graphics 400,Chrome OS,141.71
+431,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,256,Intel HD Graphics 620,Windows 10,532.06
+432,14,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,128,Intel HD Graphics 620,Windows 10,315.55
+433,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7600U 2.8GHz,16,512,Nvidia GeForce 940MX,Windows 10,1288.01
+434,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,16,512,Nvidia Quadro M2200M,Windows 10,1290.12
+435,17.3,Full HD 1920x1080,AMD Ryzen 1600 3.2GHz,8,256,AMD Radeon RX 580,Windows 10,892.92
+436,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,500,Intel HD Graphics 400,Windows 10,182.8
+437,12.3,Touchscreen 2400x1600,Intel Core i7 7Y75 1.3GHz,16,512,Intel HD Graphics 615,Chrome OS,1158.42
+438,14,2560x1440,Intel Core i7 7500U 2.7GHz,24,512,Intel HD Graphics 620,Windows 10,1254.82
+439,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,256,Intel HD Graphics 620,Linux,294.48
+440,17.3,1600x900,AMD A6-Series 9220 2.5GHz,8,1,AMD Radeon R4,Windows 10,273.41
+441,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,256,AMD Radeon 530,Windows 10,394.57
+442,12.5,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,752.79
+443,15.6,Full HD 1920x1080,Intel Pentium Quad Core N4200 1.1GHz,4,128,Intel HD Graphics 505,Windows 10,183.85
+444,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,128,Nvidia GeForce GTX 1050,Windows 10,578.95
+445,14,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8,256,Nvidia GeForce 930MX,Windows 10,621.09
+446,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,500,Intel HD Graphics 620,Linux,232.74
+447,15.6,Full HD 1920x1080,Intel Xeon E3-1505M V6 3GHz,8,256,Nvidia Quadro M620,Windows 10,1049.9
+448,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,256,Nvidia GeForce GTX 1050,Windows 10,541.41
+449,13.5,Touchscreen 2256x1504,Intel Core i7 7660U 2.5GHz,16,512,Intel Iris Plus Graphics 640,Windows 10 S,1363.87
+450,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,128,Intel HD Graphics 620,Windows 10,310.28
+451,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16,256,Nvidia Quadro M620,Windows 10,1040.42
+452,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8,512,Intel HD Graphics 620,Windows 10,808.1
+453,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,708.54
+454,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,128,AMD Radeon 530,Windows 10,515.73
+455,11.6,Touchscreen 1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,500,Intel HD Graphics 405,Windows 10,252.33
+456,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.7GHz,8,1,Nvidia GeForce GTX 1060,Windows 10,1077.82
+457,13.5,Touchscreen 2256x1504,Intel Core M m3-7Y30 2.2GHz,4,128,Intel HD Graphics 615,Windows 10 S,521
+458,13.5,Touchscreen 2256x1504,Intel Core i7 7660U 2.5GHz,8,256,Intel Iris Plus Graphics 640,Windows 10 S,947.7
+459,17.3,1600x900,Intel Core i3 6006U 2GHz,8,256,Intel HD Graphics 520,Windows 10,337.1
+460,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,1,Nvidia GeForce 940MX,Windows 10,286.58
+461,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,128,Intel HD Graphics 400,Windows 10,229.16
+462,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,1,Intel HD Graphics 620,Windows 10,394.57
+463,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,512,AMD Radeon R7 M460,No OS,420.91
+464,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8,256,Nvidia Quadro M2200M,Windows 10,1101
+465,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,500,Intel HD Graphics 500,Windows 10,160.15
+466,15.6,1366x768,Intel Core i3 6006U 2GHz,4,500,Nvidia GeForce GTX 940MX,Windows 10,247.07
+467,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,2,AMD Radeon 530,Windows 10,399.84
+468,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,1,Nvidia GeForce GTX 1060,Windows 10,895.02
+469,14,IPS Panel Quad HD+ 2560x1440,Intel Core i7 6600U 2.6GHz,12,256,Intel HD Graphics 520,Windows 10,978.78
+470,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,8,512,Intel UHD Graphics 620,Windows 10,1053.06
+471,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,500,AMD FirePro W4190M ,Windows 10,607.92
+472,12.3,Touchscreen 2400x1600,Intel Core i5 7Y57 1.2GHz,8,128,Intel HD Graphics 615,Chrome OS,671.66
+473,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,970.28
+474,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,12,128,Intel HD Graphics 530,Windows 10,684.31
+475,14,1366x768,Intel Core i3 6100U 2.3GHz,8,128,Intel HD Graphics 520,Windows 10,389.83
+476,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,256,Nvidia Quadro M1200,Windows 10,1268.52
+477,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,180,Intel HD Graphics 620,Windows 10,718.55
+478,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,1,AMD Radeon 520,Windows 10,355.59
+479,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,880.8
+480,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,512,Nvidia GeForce 940MX,Windows 10,664.81
+481,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,1,Intel HD Graphics 620,Windows 10,309.02
+482,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,128,Intel UHD Graphics 620,Windows 10,382.45
+483,15.6,Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,4,64,Intel HD Graphics,Windows 10,131.12
+484,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,128,Intel HD Graphics 520,Windows 10,297.64
+485,14,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,552.61
+486,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16,512,Nvidia Quadro M620,Windows 10,1231.65
+487,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,512,Nvidia GeForce GTX 1050,Windows 10,1000.38
+488,12.5,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,512,Intel HD Graphics 620,Windows 10,947.18
+489,12.5,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,512,Intel HD Graphics 620,Windows 10,1027.25
+490,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Nvidia GeForce 940MX,Windows 10,533.11
+491,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,32,512,Intel HD Graphics 620,Windows 10,1474.5
+492,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,128,Nvidia GeForce GTX 1050,Windows 10,711.17
+493,15.6,1366x768,AMD A10-Series 9620P 2.5GHz,8,128,AMD Radeon RX 540,Windows 10,305.01
+494,17.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6700HQ 2.6GHz,24,256,Nvidia GeForce GTX 965M,Windows 10,668.5
+495,12.5,IPS Panel 1366x768,Intel Core i5 6200U 2.3GHz,8,180,Intel HD Graphics 520,Windows 10,578.95
+496,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,256,Intel UHD Graphics 620,Windows 10,473.54
+497,14,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,1,Intel HD Graphics 620,Windows 10,921.36
+498,13.3,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,256,Intel HD Graphics 620,Windows 10,499.93
+499,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,256,Intel HD Graphics 620,Windows 10,479.91
+500,11.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,64,Intel HD Graphics 500,Windows 10 S,179.11
+501,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,256,AMD Radeon 520,Windows 10,326.08
+502,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,256,Intel UHD Graphics 620,Windows 10,842.34
